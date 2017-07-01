@@ -1,6 +1,5 @@
 {
     "name": "nethask/currency",
-    "version": "dev",
     "description": "Currency conversion and formatting",
     "license": "proprietary",
     "authors": [
